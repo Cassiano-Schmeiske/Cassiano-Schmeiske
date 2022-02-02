@@ -39,4 +39,19 @@ Sinta-se à vontade para entrar em contato através dos links no final da págin
   <a href = "mailto:ca.schmeiske@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
+## Data Science Projects
+[house sales price - data analysis](https://github.com/Cassiano-Schmeiske/House_Sales_Price_Data_Analysis)
+
+![imagem](https://user-images.githubusercontent.com/94291995/151662149-e2931415-f098-49ad-a3b8-3c4631587766.jpg)
+
+House Rocket is a fictional company that works with the purchase and sale. I want find the best business opportunities and my strategy is to buy houses in great condition at low prices and sell those properties with higher price. The attributes of houses make them more or less attractive, influencing the attractiveness of the properties and, consequently, their price.
+
+##
+
+[Python 3 - Fundamentos_Da_Programacão](https://github.com/Cassiano-Schmeiske/Fundamentos_Da_Programacao)
+
+![imagem](https://user-images.githubusercontent.com/94291995/151412390-46d21033-6315-47d5-bec8-0cb43832a6a3.png)
+
+O principal objetivo deste repositório é manter de forma organizada os métodos ensinados no curso de Python 3 do site "Curso em Vídeo" ministrado pelo Professor Gustavo Guanabara.
