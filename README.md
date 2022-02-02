@@ -39,7 +39,6 @@ Sinta-se à vontade para entrar em contato através dos links no final da págin
   <a href = "mailto:ca.schmeiske@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##
 
 ## Data Science Projects
 [House Sales Price - Data Analysis](https://github.com/Cassiano-Schmeiske/House_Sales_Price_Data_Analysis)
