@@ -6,8 +6,8 @@ Sinta-se à vontade para entrar em contato através dos links no final da págin
 
 ## Sobre mim
 
-### Graduado em Administração 
-### MBA em Logística e Supply Chain Management
+* Graduado em Administração 
+* MBA em Logística e Supply Chain Management
 
 Atualmente trabalho como Analista de PCP na indústria têxtil, desenvolvo planejamento e controle de produção através de análise das demandas seja para atendimento de pedidos ou para reposição de peças em estoque e trabalho com projetos pessoais sobre Ciência de Dados, para adquirir experiência na solução de problemas de negócios e domínio sobre as ferramentas de análise de dados.
 
