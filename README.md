@@ -42,7 +42,7 @@ Sinta-se à vontade para entrar em contato através dos links no final da págin
 ##
 
 ## Data Science Projects
-[house sales price - data analysis](https://github.com/Cassiano-Schmeiske/House_Sales_Price_Data_Analysis)
+[House Sales Price - Data Analysis](https://github.com/Cassiano-Schmeiske/House_Sales_Price_Data_Analysis)
 
 ![imagem](https://user-images.githubusercontent.com/94291995/151662149-e2931415-f098-49ad-a3b8-3c4631587766.jpg)
 
@@ -50,7 +50,7 @@ House Rocket is a fictional company that works with the purchase and sale. I wan
 
 ##
 
-[Python 3 - Fundamentos_Da_Programacão](https://github.com/Cassiano-Schmeiske/Fundamentos_Da_Programacao)
+[Python 3 - Fundamentos Da Programacão](https://github.com/Cassiano-Schmeiske/Fundamentos_Da_Programacao)
 
 ![imagem](https://user-images.githubusercontent.com/94291995/151412390-46d21033-6315-47d5-bec8-0cb43832a6a3.png)
 
