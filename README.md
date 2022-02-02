@@ -1,10 +1,16 @@
-## Olá, seja muito bem-vindo (a) ao meu portfólio de projetos de Ciência de Dados.
+## Olá, seja muito bem-vindo (a) ao meu GitHub!
 
 Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, através de projetos com dados públicos.
 Você vai encontrar minhas habilidades, ferramentas e conceitos envolvendo a Ciência de Dados.
 Sinta-se à vontade para entrar em contato através dos links no final da página
 
+## Sobre mim
 
+Sou bacharel em Administração e possuo MBA em Logística e Supply Chain Management, trabalho como Analista de PCP na indústria têxtil.
+
+Atualmente, trabalho no planejamento e controle de produção através de análise das demandas seja para atendimento de pedidos ou para reposição de peças em estoque e trabalho com projetos pessoais sobre Ciência de Dados, para adquirir experiência na solução de problemas de negócios e domínio sobre as ferramentas de análise de dados.
+
+Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de Dados para melhorar a tomada de decisão da empresa, através da construção de soluções usando dados.
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cassiano-Schmeiske&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
