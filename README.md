@@ -52,7 +52,7 @@ Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de
 
 ![imagem](https://user-images.githubusercontent.com/94291995/151662149-e2931415-f098-49ad-a3b8-3c4631587766.jpg)
 
-House Rocket is a fictional company that works with the purchase and sale. I want find the best business opportunities and my strategy is to buy houses in great condition at low prices and sell those properties with higher price. The attributes of houses make them more or less attractive, influencing the attractiveness of the properties and, consequently, their price.
+House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio  a minha estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço.
 
 ##
 
