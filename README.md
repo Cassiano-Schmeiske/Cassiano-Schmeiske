@@ -48,7 +48,7 @@ Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de
 
 
 ## Data Science Projects
-[House Sales Price - Data Analysis](https://github.com/Cassiano-Schmeiske/House_Sales_Price_Data_Analysis)
+[Projeto_Insight_House_Rocket](https://github.com/Cassiano-Schmeiske/Projeto_Insight_House_Rocket)
 
 ![imagem](https://user-images.githubusercontent.com/94291995/151662149-e2931415-f098-49ad-a3b8-3c4631587766.jpg)
 
