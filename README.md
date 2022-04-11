@@ -59,7 +59,7 @@ A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os g
 
 <img src="https://user-images.githubusercontent.com/94291995/162750318-9ce12340-b520-441f-b185-6fb9ce0eb26a.png" />
 
-House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio  a minha estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço.
+House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio  a minha estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço. Para facilitar a visualização dos imóveis recomendados, foi disponibilizado o Link de acesso ao CFO da House Rocket, foi desenvolvido o Dashboard interativo utilizando a ferramenta Streamlit.
 
 ##
 
