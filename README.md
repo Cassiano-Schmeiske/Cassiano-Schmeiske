@@ -74,3 +74,4 @@ House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer enco
   &nbsp; 
 
 O principal objetivo deste repositório é manter de forma organizada os métodos ensinados no curso de Python 3 do site "Curso em Vídeo" ministrado pelo Professor Gustavo Guanabara.
+
