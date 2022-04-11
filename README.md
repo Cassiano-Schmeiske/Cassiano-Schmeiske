@@ -55,6 +55,8 @@ Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de
 
 A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. a minha estratégia foi utilizar modelos de machine learning para realizar a pevisão das lojas, sendo assim o resultado fica mais preciso e confiante. e o resultado dessa predição CFO prode requisitar através de um BOT no Telegram.
 
+##
+
 [Projeto_Insight_House_Rocket](https://github.com/Cassiano-Schmeiske/Projeto_Insight_House_Rocket)
 
 <img src="https://user-images.githubusercontent.com/94291995/162750318-9ce12340-b520-441f-b185-6fb9ce0eb26a.png" />
