@@ -53,14 +53,9 @@ Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de
 
 <img src="https://user-images.githubusercontent.com/94291995/161288814-c64d12a3-6158-4b53-b052-a1d41788cabb.png" />
 
-[Projeto_Insight_House_Rocket](https://user-images.githubusercontent.com/94291995/162748204-28927af4-6c54-4788-88d3-5d89b470612d.jpg)
+[Projeto_Insight_House_Rocket](https://github.com/Cassiano-Schmeiske/Projeto_Insight_House_Rocket)
 
-&nbsp; 
-  <p align="center">
-    <img width="65%" alt="drawing" src="https://user-images.githubusercontent.com/94291995/151662149-e2931415-f098-49ad-a3b8-3c4631587766.jpg">
-  </p>
-  &nbsp; 
-
+<img src="https://user-images.githubusercontent.com/94291995/162750318-9ce12340-b520-441f-b185-6fb9ce0eb26a.png" />
 
 House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio  a minha estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço.
 
