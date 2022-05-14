@@ -46,7 +46,7 @@ A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os g
 
 [Health Insurance Cross Sell](https://github.com/Cassiano-Schmeiske/health_insurance_cross_sell)
 
-Este projeto é para atender a demanda de uma seguradora que fornece seguro saúde para seus clientes e agora pretende aumentar o leque de produtos do seu portifólio, através do Cross-Sell oferecer seguro veicular para os cliente existente. Com os recursos limitados para contatar os potenciais clientes interessados em adquirir o produto, é necessário construir um ranking de clientes para melhorar o desempenho de adesão ao produto. Este é um projeto de classificação (Learning to Rank).
+A company that traditionally provides Health Insurance intends to offer its customers a new product, a Vehicle Insurance. In order to achieve this purpose efficiently, With limited resources to contact potential customers interested in purchasing the product, it is necessary to build a ranking of customers to improve the performance of adherence to the product. This is a classification project( Learning to Rank ).
 
 ##
 
