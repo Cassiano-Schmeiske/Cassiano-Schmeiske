@@ -40,7 +40,7 @@ Trabalho com projetos pessoais sobre Ciência de Dados, para adquirir experiênc
 
 [Prediction Sales Rossmann Stores](https://github.com/Cassiano-Schmeiske/Prediction_Sales_Rossmann_Stores)
 
-A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. a minha estratégia foi utilizar modelos de machine learning para realizar a pevisão das lojas, sendo assim o resultado fica mais preciso e confiante. e o resultado dessa predição CFO prode requisitar através de um BOT no Telegram.
+A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes das lojas Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. a minha estratégia foi utilizar modelos de machine learning para realizar a pevisão das vendas, sendo assim o resultado fica mais preciso e confiante. e o resultado dessa predição o CFO da rede de farmacia pode requisitar através de um BOT no Telegram.
 
 ##
 
