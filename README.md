@@ -7,7 +7,9 @@ Sinta-se à vontade para entrar em contato através dos links no final da págin
 
 ## Sobre mim
 
-Atualmente trabalho como Analista de PCP na indústria têxtil, desenvolvo planejamento e controle de produção através de análise das demandas seja para atendimento de pedidos ou para reposição de peças em estoque.
+Atualmente Líder de Manutenção na Datateck - chicotes elétricos. Profissional com +12 anos de experiência no setor, atendendo critérios de grandes clientes: Toyota, Mercedes-Benz, GM, Honda, Ford, Jacto, P.L.A, JCB e WEG.
+
+Responsável pela gestão dos indicadores de manutenção, KPIs: MTBF, MTTR, DISPONIBILIDADE. Utilizei das minhas habilidades com dados para implementar ordem de serviço digital, coletando as paradas de máquinas e equipamentos utilizando Google Forms, armazenamento e análise das Ocorrências com Google Sheets e visualização dos dados com Google Data Studio. Através de um Dashboard são gerados informações em insights em tempo real.
 
 Trabalho com projetos pessoais sobre Ciência de Dados, para adquirir experiência na solução de problemas de negócios e domínio sobre as ferramentas de análise de dados. Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de Dados para melhorar a tomada de decisão da empresa, através da construção de soluções usando dados.
 
